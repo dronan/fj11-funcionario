@@ -1,0 +1,1 @@
+Uso de interfaces em java, com classes abstratas
